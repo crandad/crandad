@@ -1,0 +1,23 @@
+<html>
+<body>
+<body style="background-color:powderblue;">
+<h1> WELCOME TO MY COOL BLOG! RUN BY CRANDAD! </h1>
+<p style="font-family:Comic Sans MS;">WELCOME TO MY COOL GAMER LOUNGE! WE HAVE COOL NEWS!.</p>
+<a href="https://www.youtube.com/channel/UClF6nzknYQc5f7keTngOX6w?view_as=subscriber">MY COOL YOU TUBE</a>
+<hr>
+<p style="color:red","font-family:Comic Sans MS;">LASTEST POKEMON SWORD SHIELD NEWS! (UPDATED 10/1/19)</p>
+<ul>
+  <li>GIGANTMAX SNORLAX!</li>
+  <li><img src="https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-11-27-15-36/SWSH_Gigantamax_Snorlax_OfficialArt_Glow_RGB_300dpi.jpg/EG11/resize/300x-1/quality/75/format/jpg"></li>
+</ul>
+<hr>
+<p style="color:red">LASTEST SPLATOON 2 PATCHNOTES!(UPDATED)</p>
+<ul>
+  <li>Adjustments and bug fixes.</li>
+  <li><img src="https://media0.giphy.com/media/Z8CiUeSZ7YHAI/source.gif"></li>
+</ul>
+<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">VIDEO SHOWCASING PATCHNOTES!</a>
+<hr>
+<p6> All Rights go to Nintendo/Gamefreak. </p6>
+</body>
+</html>
