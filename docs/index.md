@@ -14,7 +14,6 @@
 <p style="color:red">LASTEST SPLATOON 2 PATCHNOTES!(UPDATED)</p>
 <ul>
   <li>Adjustments and bug fixes.</li>
-  <li><img src="https://media0.giphy.com/media/Z8CiUeSZ7YHAI/source.gif"></li>
 </ul>
 <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">VIDEO SHOWCASING PATCHNOTES!</a>
 <hr>
